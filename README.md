@@ -13,6 +13,20 @@ no curso de Ciência da Computação (PUC Minas), no primeiro semestre de 2026.
 - **`extras/`** — Desafios extras, códigos exploratórios e pequenos projetos 
   pessoais feitos por curiosidade ou prática adicional
 
+## 🛠️ Temas abordados
+
+- Estruturas condicionais (lista 01)
+- Estruturas de repetição (lista 02)
+- Modularização (lista 03)
+- Recursividade (lista 04)
+- Ponteiros (lista 05)
+- Arquivos (lista 06)
+- Vetores e matrizes (lista 07)
+- Manipulação de caracteres
+- Structs (lista 08)
+- Classes (lista 09)
+
+
 ## 🛠️ Tecnologias
 
 - Linguagem: C / C++ 
