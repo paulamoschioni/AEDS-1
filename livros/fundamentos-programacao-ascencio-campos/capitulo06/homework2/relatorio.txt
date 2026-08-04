@@ -1,0 +1,12 @@
+Vendas totais do objeto 0: R$100.00
+Vendas totais do objeto 1: R$180.00
+Vendas totais do objeto 2: R$240.00
+Vendas totais do objeto 3: R$280.00
+Vendas totais do objeto 4: R$300.00
+Vendas totais do objeto 5: R$300.00
+Vendas totais do objeto 6: R$280.00
+Vendas totais do objeto 7: R$240.00
+Vendas totais do objeto 8: R$180.00
+Vendas totais do objeto 9: R$100.00
+Comissao geral: R$655.00
+Valor do objeto mais vendido: R$0.00

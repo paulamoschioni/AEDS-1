@@ -1,0 +1,30 @@
+Produto 0:
+Valor: R$1.00
+Quantidade vendida: 100
+Produto 1:
+Valor: R$2.00
+Quantidade vendida: 90
+Produto 2:
+Valor: R$3.00
+Quantidade vendida: 80
+Produto 3:
+Valor: R$4.00
+Quantidade vendida: 70
+Produto 4:
+Valor: R$5.00
+Quantidade vendida: 60
+Produto 5:
+Valor: R$6.00
+Quantidade vendida: 50
+Produto 6:
+Valor: R$7.00
+Quantidade vendida: 40
+Produto 7:
+Valor: R$8.00
+Quantidade vendida: 30
+Produto 8:
+Valor: R$9.00
+Quantidade vendida: 20
+Produto 9:
+Valor: R$10.00
+Quantidade vendida: 10
